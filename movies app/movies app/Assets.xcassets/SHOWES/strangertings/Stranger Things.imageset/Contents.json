@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "stranger-things-1-1000-piezas-stranger-things_ifwW46q.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
